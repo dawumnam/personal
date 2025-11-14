@@ -4,3 +4,6 @@
 
 
 !.gitignore
+!.zshrc
+!.bashrc
+!.claude/*
